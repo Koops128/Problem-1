@@ -1,18 +1,9 @@
-/***********************************************************************************************
-* Pcb.c
-*
-* Programming Team:
-* Sean Markus
-* Wing-Sea Poon
-* Abigail Smith
-* Tabi Stein
-*
-* Date: 1/22/16
-*
-* Description:
-* This C file implements the class and methods for the process control block.
-*
-************************************************************************************************/
+/*
+ * PCB.c
+ *
+ *  Created on: Jan 6, 2016
+ *      Author: Abigail
+ */
 
 #include "Pcb.h"
 #include <stdlib.h>

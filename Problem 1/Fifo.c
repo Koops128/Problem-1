@@ -1,19 +1,11 @@
-/***********************************************************************************************
-* Fifo.c
-*
-* Programming Team:
-* Sean Markus
-* Wing-Sea Poon
-* Abigail Smith
-* Tabi Stein
-*
-* Date: 1/22/16
-*
-* Description:
-* This C file implements the class and methods for the FIFO Queue.
-*
-************************************************************************************************/
-
+/*
+ * FIFO.c
+ * This is a a linked list ADT that acts as a queue.
+ *
+ *  Created on: Jan 6, 2016
+ *      Author: Sean Markus
+ * Reviewed by: Wing-Sea Poon
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "Fifo.h"
